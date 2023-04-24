@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #0099FF;
+  background-color: #24292F;
 }
 
 main {
@@ -39,7 +39,7 @@ input {
 }
 
 button[type="submit"] {
-  background-color: #0099FF;
+  background-color: #24292F;
   height: 50px;
   width: 50px;
   border: none;
